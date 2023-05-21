@@ -4,8 +4,8 @@
 
 - 👋 Hey!
 - 🎯 Interested in 📊 ***Data Science*** and 🤖 ***Artificial Intelligence***, and how they are applied to the 💵 ***Financial Industry*** and other Industries
-- 
-- 
+
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me out through ...
