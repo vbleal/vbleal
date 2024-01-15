@@ -3,7 +3,7 @@
 ## A brief description...
 
 - 👋 Hey!
-- 🎯 Interested in 📊 ***Data Science*** and 🤖 ***Artificial Intelligence***, and how they are applied to the 💵 ***Financial Industry*** and other Industries
+- 🎯 Interested in 📊 ***Data Science*** and 🤖 ***Artificial Intelligence***, and how they are applied to the 💵 ***Financial Sector***, sucha as in ***Financial Risk Modeling***, and other Industries
 
 
 <!---
