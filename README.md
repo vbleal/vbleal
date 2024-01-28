@@ -5,7 +5,7 @@
 *AKA: Vic Data & David Beta*
 
 
-## Summary
+## 📌 Summary
 
 <details>
     <summary> Click to expand. </summary>
