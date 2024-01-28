@@ -1,6 +1,6 @@
 # 📃 A Brief Description
 
-**Victor David Betancourt Leal**
+**Victor David Betancourt**
 
 *AKA: Vic Data & David Beta*
 
