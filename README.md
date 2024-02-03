@@ -62,17 +62,20 @@ You can click the Preview link to take a look at your changes.
     <summary> Click to expand. </summary>
 
 
-<!---
+
 
 ### 🤖 **EXPLAINABLE DATA Series**
 
 - **Artificial Intelligence in Plain English**
     - ***An AI-Guide To Rule Them All***
+    - ES: [https://amzn.eu/d/30gpBQf](https://amzn.eu/d/30gpBQf)
+    
 
 - **Inteligencia Artificial en Simples Palabras**
     - ***Una GuIA para Dominarlas a Todas***
+    -  ES: [https://amzn.eu/d/48Ld0m2](https://amzn.eu/d/48Ld0m2)
 
---->
+
 
 </details>
 
