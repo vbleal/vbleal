@@ -57,9 +57,7 @@ You can click the Preview link to take a look at your changes.
 ## 📚📲 Publications
 
 <details>
-    <summary> Click to expand. </summary>
-
-
+    <summary> Click to expand </summary>
 
 
 ### 🤖 **EXPLAINABLE DATA Series**
@@ -68,20 +66,29 @@ You can click the Preview link to take a look at your changes.
     - EU: [https://amzn.eu/d/48Ld0m2](https://amzn.eu/d/48Ld0m2)
 
 
-1. **Artificial Intelligence in Plain English.** ***An AI-Guide To Rule Them All***
+2. **Artificial Intelligence in Plain English.** ***An AI-Guide To Rule Them All***
     - EU: [https://amzn.eu/d/30gpBQf](https://amzn.eu/d/30gpBQf)
 
-2. **Big Data para PYMEs** ***8 Soluciones para su Implementación en Pequeñas y Medianas Empresas***
+3. **Big Data para PYMEs** ***8 Soluciones para su Implementación en Pequeñas y Medianas Empresas***
     
     
-3. **Big Data for SMEs.** ***8 Solutions for Its Implementation in Small and Medium Enterprises***
+4. **Big Data for SMEs.** ***8 Solutions for Its Implementation in Small and Medium Enterprises***
     
+
+**Covers**:
+
+<details>
+    <summary> Click to expand </summary>
 
 ![](https://github.com/vbleal/vbleal/blob/main/Im/Mini-001_AI_esp.png)
 ![](https://github.com/vbleal/vbleal/blob/main/Im/Mini-001_AI_eng.png)
 
 ![](https://github.com/vbleal/vbleal/blob/main/Im/Mini-003_BD_Esp.png)
 ![](https://github.com/vbleal/vbleal/blob/main/Im/Mini-004_BD_Eng.png)
+
+</details>
+
+----------------
 
 
 
