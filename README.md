@@ -66,12 +66,19 @@ You can click the Preview link to take a look at your changes.
 
 ### 🤖 **EXPLAINABLE DATA Series**
 
-- **Artificial Intelligence in Plain English.** ***An AI-Guide To Rule Them All***
-    - ES: [https://amzn.eu/d/30gpBQf](https://amzn.eu/d/30gpBQf)
-    
+1. **Inteligencia Artificial en Simples Palabras.** ***Una GuIA para Dominarlas a Todas***
+    - EU: [https://amzn.eu/d/48Ld0m2](https://amzn.eu/d/48Ld0m2)
 
-- **Inteligencia Artificial en Simples Palabras.** ***Una GuIA para Dominarlas a Todas***
-    -  ES: [https://amzn.eu/d/48Ld0m2](https://amzn.eu/d/48Ld0m2)
+2. **Artificial Intelligence in Plain English.** ***An AI-Guide To Rule Them All***
+    - EU: [https://amzn.eu/d/30gpBQf](https://amzn.eu/d/30gpBQf)
+
+3. **Big Data para PYMEs** ***8 Soluciones para su Implementación en Pequeñas y Medianas Empresas***
+    - : []()
+    
+4. **Big Data for SMEs.** ***8 Solutions for Its Implementation in Small and Medium Enterprises***
+    -  : []()
+
+
 
 
 
