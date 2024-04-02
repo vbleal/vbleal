@@ -1,8 +1,6 @@
-# 📃 A Brief Description
+# 📃 V. D. Betancourt
 
-**Victor D. Betancourt**
-
-*AKA: Vic Data & David Beta*
+***AKA: Vic Data & David Beta***
 
 
 ## 📌 Summary
