@@ -1,6 +1,6 @@
 # 📃 A Brief Description
 
-**Victor David Betancourt**
+**Victor D. Betancourt**
 
 *AKA: Vic Data & David Beta*
 
