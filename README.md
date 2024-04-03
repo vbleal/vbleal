@@ -118,7 +118,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 ### 📊 DATA SCIENCE
 
-1. ![Data Visualization](https://github.com/vbleal/DataViz)
+1. [Data Visualization](https://github.com/vbleal/DataViz)
 
    *    [Titanic](https://github.com/vbleal/DataViz/tree/main/Titanic)
 
