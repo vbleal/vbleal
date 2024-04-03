@@ -99,17 +99,17 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 1. **TensorFlow**
 
-    *    ![Playground TensorFlow](https://github.com/vbleal/Playground)
+    *    [Playground TensorFlow](https://github.com/vbleal/Playground)
 
 2. **Supervised Learning**
 
-    *    ![Computer Vision](https://github.com/vbleal/SL_ComputerVision)
+    *    [Computer Vision](https://github.com/vbleal/SL_ComputerVision)
   
 3. **Neural Networks**
 
-   *    ![UrbanSound8K](https://github.com/vbleal/UrbanSound8k)
+   *    [UrbanSound8K](https://github.com/vbleal/UrbanSound8k)
   
-   *    ![Vegetable Image Data](https://github.com/vbleal/VegetableImage)
+   *    [Vegetable Image Data](https://github.com/vbleal/VegetableImage)
   
    
 
@@ -120,9 +120,9 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 1. ![Data Visualization](https://github.com/vbleal/DataViz)
 
-   *    ![Titanic](https://github.com/vbleal/DataViz/tree/main/Titanic)
+   *    [Titanic](https://github.com/vbleal/DataViz/tree/main/Titanic)
 
-   *    ![Loan Data](https://github.com/vbleal/DataViz/tree/main/LoanData)
+   *    [Loan Data](https://github.com/vbleal/DataViz/tree/main/LoanData)
   
 
 
@@ -131,11 +131,11 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 1. **Pandas**
 
-   *    ![Pandas WhitePaper](https://github.com/vbleal/Pandas)
+   *    [Pandas WhitePaper](https://github.com/vbleal/Pandas)
 
 2. **Algorithms**
 
-   *    ![Optimization](https://github.com/vbleal/AlgoritmosOptimizacion)
+   *    [Optimization](https://github.com/vbleal/AlgoritmosOptimizacion)
 
 
    
@@ -152,7 +152,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 ### 📋 METODOLOGÍAS ÁGILES
 
-1. ![Agile in Data Science & Big Data Project](https://github.com/vbleal/AgileDataScience)
+1. [Agile in Data Science & Big Data Project](https://github.com/vbleal/AgileDataScience)
 
 
 
