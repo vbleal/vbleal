@@ -144,7 +144,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 1. **Algorithms**
 
-   *    ![Optimization](https://github.com/vbleal/AlgoritmosOptimizacion)
+   *    [Optimization](https://github.com/vbleal/AlgoritmosOptimizacion)
 
 
 
