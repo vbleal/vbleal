@@ -156,6 +156,14 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 
+### 💶 FINANCIAL RISKS
+
+1. [Financial Risks](https://github.com/vbleal/FR)
+
+
+
+
+
 
 ### 🤪 JUST FOR FUN
 
