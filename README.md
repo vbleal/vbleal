@@ -99,9 +99,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 1. **TensorFlow**
 
-    *     Playground TensorFlow ![]()
-
-
+    *    ![Playground TensorFlow](https://github.com/vbleal/Playground)
 
 2. **Supervised Learning**
 
@@ -111,7 +109,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
    *    ![UrbanSound8K](https://github.com/vbleal/UrbanSound8k)
   
-   *    Vegetable Image Data ![]()
+   *    ![Vegetable Image Data](https://github.com/vbleal/VegetableImage)
   
    
 
