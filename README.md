@@ -87,6 +87,92 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 
+## 📚📲 Content
+
+
+
+<details>
+<summary>🔍 Click para explorar</summary>
+
+### 🦾 ARTIFICIAL INTELLIGENCE
+
+
+1. **TensorFlow**
+
+    *     Playground TensorFlow ![]()
+
+
+
+2. **Supervised Learning**
+
+    *    ![Computer Vision](https://github.com/vbleal/SL_ComputerVision)
+  
+3. **Neural Networks**
+
+   *    ![UrbanSound8K](https://github.com/vbleal/UrbanSound8k)
+  
+   *    Vegetable Image Data ![]()
+  
+   
+
+
+
+
+### 📊 DATA SCIENCE
+
+1. ![Data Visualization](https://github.com/vbleal/DataViz)
+
+   *    ![Titanic](https://github.com/vbleal/DataViz/tree/main/Titanic)
+
+   *    ![Loan Data](https://github.com/vbleal/DataViz/tree/main/LoanData)
+  
+
+
+
+### 🐍 PYTHON
+
+1. **Pandas**
+
+   *    ![Pandas WhitePaper](https://github.com/vbleal/Pandas)
+
+2. **Algorithms**
+
+   *    ![Optimization](https://github.com/vbleal/AlgoritmosOptimizacion)
+
+
+   
+
+### 🧮 MATH
+
+1. **Algorithms**
+
+   *    ![Optimization](https://github.com/vbleal/AlgoritmosOptimizacion)
+
+
+
+
+
+### 📋 METODOLOGÍAS ÁGILES
+
+1. ![Agile in Data Science & Big Data Project](https://github.com/vbleal/AgileDataScience)
+
+
+
+
+### 🤪 JUST FOR FUN
+
+1. None yet
+
+
+</details>
+
+----------------
+
+
+
+
+
+
 
 
 
