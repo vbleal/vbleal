@@ -87,7 +87,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 
-## 📚📲 Content
+## 📑 Content
 
 
 
