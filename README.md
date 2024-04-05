@@ -4,11 +4,35 @@
 
 
 
-# Bienvenido a Mi GitHub 👋
+# Welcome 👋
+
+## 📌 Summary
+
+I am an enthusiast at the intersection of technology and finance, dedicated to innovating and sharing knowledge. Here you will find projects that reflect my experience and passion for transforming the complex world of data into practical and understandable solutions.
+
+<details>
+<summary>🌐 Click for details </summary>
+
+### What defines me:
+
+- 📊 **Data Scientist and Expert in Financial Risks**: Delving into the numbers to find stories and solutions.
+- 🌎 **Global Experience**: Leadership of teams in the financial sector at an international level.
+- 🤖 **Passionate about AI**: At the forefront of research on advanced AI technologies.
+- 📚 **Continuous Learning**: With a solid academic background ranging from Physics to Artificial Intelligence.
+- 🌱 **Community Contributor**: Committed to sharing knowledge and promoting growth in the technological and financial fields.
+
+
+</details>
+
+---
+
 
 ## 📌 Resumen
 
 Soy un entusiasta de la intersección entre la tecnología y las finanzas, dedicado a innovar y compartir conocimientos. Aquí encontrarás proyectos que reflejan mi experiencia y mi pasión por transformar el complejo mundo de los datos en soluciones prácticas y comprensibles.
+
+<details>
+<summary>🌐 Click para más detalles </summary>
 
 ### Lo que me define:
 - 📊 **Científico de Datos y Experto en Riesgos Financieros**: Profundizando en los números para encontrar historias y soluciones.
@@ -17,33 +41,23 @@ Soy un entusiasta de la intersección entre la tecnología y las finanzas, dedic
 - 📚 **Aprendizaje Continuo**: Con una sólida formación académica que abarca desde Física hasta Inteligencia Artificial.
 - 🌱 **Contribuyente a la Comunidad**: Comprometido con compartir conocimientos y promover el crecimiento en los ámbitos tecnológico y financiero.
 
-<details>
-<summary>🌐 Click para más detalles (ENG/ESP)</summary>
-
-#### ENG
-- 📊 Data Scientist and Financial Risk Expert.
-- 🌎 Global Experience: Leading teams in the financial sector across various countries.
-- 🤖 Passionate about AI: Currently researching advanced AI technologies.
-- 📚 Lifelong Learning: Academic background in Physics, Mathematics, Data Science, Big Data, Artificial Intelligence, Financial Risks, and Finance.
-- 🌱 Community Contributor: Sharing knowledge and fostering growth in the tech and financial world.
-
-#### ESP
-- 📊 Científico de Datos y Experto en Riesgos Financieros.
-- 🌎 Experiencia Internacional: Dirigiendo equipos de trabajo en el sector financiero en varios países.
-- 🤖 Apasionado por la IA: Actualmente investigando tecnologías avanzadas de IA.
-- 📚 Aprendizaje Continuo: Formación académica en Física, Matemáticas, Ciencia de Datos, Big Data, Inteligencia Artificial, Riesgos Financieros, y Finanzas.
-- 🌱 Contribuyente a la Comunidad: Compartiendo conocimientos e impulsando el crecimiento en el mundo tecnológico y financiero.
 
 </details>
 
 ---
 
-## 📚📲 Publicaciones
+
+
+
+
+## 📚📲 Publications
+
+Discover my series **EXPLAINABLE DATA**, where I demystify artificial intelligence and offer accessible guides for everyone.
 
 Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artificial y ofrezco guías accesibles para todos.
 
 <details>
-<summary>🔍 Click para explorar</summary>
+<summary>🔍 Click to explore </summary>
 
 ### 🤖 **EXPLAINABLE DATA Series**
 
