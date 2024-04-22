@@ -50,29 +50,65 @@ Soy un entusiasta de la intersección entre la tecnología y las finanzas, dedic
 
 
 
-## 📚📲 Publications
+## 📚📲 Publications - Mis Libros
+
+### TOTAL:
+  - EN: 2
+  - ES: 2
+
+
+### ENGLISH
+
+<details>
+<summary>🔍 Explore in EN </summary>
 
 Discover my series **EXPLAINABLE DATA**, where I demystify artificial intelligence and offer accessible guides for everyone.
 
-Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artificial y ofrezco guías accesibles para todos.
+### 🤖 **EXPLAINABLE DATA Series**
+
+1. **Artificial Intelligence in Plain English.** ***An AI-Guide To Rule Them All***
+    - EU: [https://amzn.eu/d/30gpBQf](https://amzn.eu/d/30gpBQf)
+
+5. **Big Data for SMEs.** ***8 Solutions for Its Implementation in Small and Medium Enterprises***
+
+
+**Covers**:
 
 <details>
-<summary>🔍 Click to explore </summary>
+    <summary>🔍 Explore Covers </summary>
 
-### 🤖 **EXPLAINABLE DATA Series**
+
+![](https://github.com/vbleal/vbleal/blob/main/Im/Mini-001_AI_eng.png)
+
+
+![](https://github.com/vbleal/vbleal/blob/main/Im/Mini-004_BD_Eng.png)
+
+</details>
+
+
+
+
+</details>
+
+
+
+### ESPAÑOL
+
+
+
+<details>
+<summary>🔍 Explora en ES </summary>
+
+Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artificial y ofrezco guías accesibles para todos.
+
+### 🤖 **Serie EXPLAINABLE DATA**
 
 1. **Inteligencia Artificial en Simples Palabras.** ***Una GuIA para Dominarlas a Todas***
     - EU: [https://amzn.eu/d/48Ld0m2](https://amzn.eu/d/48Ld0m2)
 
+2. **Big Data para PYMEs** ***8 Soluciones para su Implementación en Pequeñas y Medianas Empresas***
 
-2. **Artificial Intelligence in Plain English.** ***An AI-Guide To Rule Them All***
-    - EU: [https://amzn.eu/d/30gpBQf](https://amzn.eu/d/30gpBQf)
 
-3. **Big Data para PYMEs** ***8 Soluciones para su Implementación en Pequeñas y Medianas Empresas***
-    
-    
-4. **Big Data for SMEs.** ***8 Solutions for Its Implementation in Small and Medium Enterprises***
-    
 
 **Covers**:
 
@@ -80,10 +116,24 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
     <summary>🔍 Click para explorar </summary>
 
 ![](https://github.com/vbleal/vbleal/blob/main/Im/Mini-001_AI_esp.png)
-![](https://github.com/vbleal/vbleal/blob/main/Im/Mini-001_AI_eng.png)
+
 
 ![](https://github.com/vbleal/vbleal/blob/main/Im/Mini-003_BD_Esp.png)
-![](https://github.com/vbleal/vbleal/blob/main/Im/Mini-004_BD_Eng.png)
+
+
+</details>
+
+
+
+    
+</details>    
+    
+
+
+
+
+
+
 
 </details>
 
@@ -91,25 +141,21 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 
-</details>
-
-----------------
 
 
 
 
-
-
-
-## 📑 Content
+## 📑 My Repositories by Topic - Mis Repositorios por Tema
 
 
 
 <details>
-<summary>🔍 Click para explorar</summary>
+<summary>🔍 Explore Topics </summary>
 
 ### 🦾 ARTIFICIAL INTELLIGENCE
 
+<details>
+<summary>🔍 Details </summary>
 
 1. **TensorFlow**
 
@@ -126,11 +172,14 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
    *    [Vegetable Image Data](https://github.com/vbleal/VegetableImage)
   
    
-
+</details>
 
 
 
 ### 📊 DATA SCIENCE
+
+<details>
+<summary>🔍 Details </summary>
 
 1. [Data Visualization](https://github.com/vbleal/DataViz)
 
@@ -138,10 +187,14 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
    *    [Loan Data](https://github.com/vbleal/DataViz/tree/main/LoanData)
   
+</details>
 
 
 
 ### 🐍 PYTHON
+
+<details>
+<summary>🔍 Details </summary>
 
 1. **Pandas**
 
@@ -152,36 +205,61 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
    *    [Optimization](https://github.com/vbleal/AlgoritmosOptimizacion)
 
 
+</details>
+
    
 
 ### 🧮 MATH
+
+<details>
+<summary>🔍 Details </summary>
 
 1. **Algorithms**
 
    *    [Optimization](https://github.com/vbleal/AlgoritmosOptimizacion)
 
 
+</details>
+
 
 
 
 ### 📋 METODOLOGÍAS ÁGILES
 
+<details>
+<summary>🔍 Details </summary>
+
 1. [Agile in Data Science & Big Data Project](https://github.com/vbleal/AgileDataScience)
+
+
+</details>
 
 
 
 ### 💶 FINANCIAL RISKS
 
+<details>
+<summary>🔍 Details </summary>
+
 1. [Financial Risks](https://github.com/vbleal/FR)
 
 
+</details>
 
 
 
 
 ### 🤪 JUST FOR FUN
 
+<details>
+<summary>🔍 Details </summary>
+
 1. None yet
+
+
+</details>
+
+
 
 
 </details>
