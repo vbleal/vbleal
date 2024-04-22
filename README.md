@@ -2,13 +2,16 @@
 
 ***AKA: Vic Data & David Beta***
 
+Data Scientist. Financial and Non-Financial Risk Manager. Mathematician-Physicist
+
+Banking Sector & Consultancy
 
 
 # Welcome 👋
 
 ## 📌 Summary
 
-I am an enthusiast at the intersection of technology and finance, dedicated to innovating and sharing knowledge. Here you will find projects that reflect my experience and passion for transforming the complex world of data into practical and understandable solutions.
+Here you will find projects that reflect my experience and passion for transforming the complex world of data into practical and understandable solutions.
 
 <details>
 <summary>🌐 Click for details </summary>
@@ -29,7 +32,7 @@ I am an enthusiast at the intersection of technology and finance, dedicated to i
 
 ## 📌 Resumen
 
-Soy un entusiasta de la intersección entre la tecnología y las finanzas, dedicado a innovar y compartir conocimientos. Aquí encontrarás proyectos que reflejan mi experiencia y mi pasión por transformar el complejo mundo de los datos en soluciones prácticas y comprensibles.
+Aquí encontrarás proyectos que reflejan mi experiencia y mi pasión por transformar el complejo mundo de los datos en soluciones prácticas y comprensibles.
 
 <details>
 <summary>🌐 Click para más detalles </summary>
