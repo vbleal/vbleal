@@ -1,3 +1,5 @@
+![](https://github.com/vbleal/vbleal/blob/main/Im/Banner_03.png)
+
 # 📃 V. D. Betancourt
 
 ***AKA: Vic Data & David Beta***
