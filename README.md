@@ -264,7 +264,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 1. Aeropuertos: Operaciones
 
 
-2. Aeropuertos: Gestión de Locales
+2. Aeropuertos: Renta de Locales
 
 
 </details>
