@@ -1,6 +1,6 @@
 ![](https://github.com/vbleal/vbleal/blob/main/Im/Banner_03.png)
 
-# 📃 V. D. Betancourt
+# 📃 V. D. BETANCOURT
 
 ***AKA: Vic Data & David Beta***
 
@@ -9,7 +9,7 @@ Data Scientist. Financial and Non-Financial Risk Manager. Mathematician-Physicis
 Banking Sector & Consultancy
 
 
-# Welcome 👋
+# WELCOME 👋
 
 ## 📌 Summary
 
@@ -55,7 +55,7 @@ Aquí encontrarás proyectos que reflejan mi experiencia y mi pasión por transf
 
 
 
-## 📚📲 Publications - Mis Libros
+## 📚📲 My BOOKS (Libros)
 
 ### TOTAL:
   - EN: 2
