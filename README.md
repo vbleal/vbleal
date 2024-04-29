@@ -181,7 +181,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-### 🦾 Artificial Intelligence & Machine Learning
+### 🦾 Artificial Intelligence, Machine Learning & Deep Learning
 
 <details>
 <summary>🔍 Details </summary>
@@ -194,7 +194,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
     *    [Computer Vision](https://github.com/vbleal/SL_ComputerVision)
   
-3. **Neural Networks**
+3. **Redes Neuronales y Deep Learning**
 
    *    [UrbanSound8K](https://github.com/vbleal/UrbanSound8k)
   
