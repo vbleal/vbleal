@@ -111,7 +111,10 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 1. **Inteligencia Artificial en Simples Palabras.** ***Una GuIA para Dominarlas a Todas***
     - EU: [https://amzn.eu/d/48Ld0m2](https://amzn.eu/d/48Ld0m2)
 
-2. **Big Data para PYMEs** ***8 Soluciones para su Implementación en Pequeñas y Medianas Empresas***
+2. **Big Data para PYMEs.** ***8 Soluciones para su Implementación en Pequeñas y Medianas Empresas***
+ 
+
+3. **Data Science Nivel 1.** ***Análisis de Datos con Python*** 
 
 
 
@@ -124,6 +127,10 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 ![](https://github.com/vbleal/vbleal/blob/main/Im/Mini-003_BD_Esp.png)
+
+
+![]()
+
 
 
 </details>
