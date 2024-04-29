@@ -9,7 +9,12 @@ Data Scientist. Financial and Non-Financial Risk Manager. Mathematician-Physicis
 Banking Sector & Consultancy
 
 
-# WELCOME 👋
+<br>
+
+---
+
+
+# Welcome! 👋
 
 ## 📌 Summary
 
@@ -29,7 +34,7 @@ Here you will find projects that reflect my experience and passion for transform
 
 </details>
 
----
+<br>
 
 
 ## 📌 Resumen
@@ -49,18 +54,26 @@ Aquí encontrarás proyectos que reflejan mi experiencia y mi pasión por transf
 
 </details>
 
+<br>
+
+
 ---
 
 
 
 
+<br>
 
-## 📚📲 My BOOKS (Libros)
+## 📚📲 My BOOKS (Libros Publicados)
 
-### TOTAL:
+
+### TOTAL: 5
   - EN: 2
-  - ES: 2
+  - ES: 3
 
+
+
+<br>
 
 ### ENGLISH
 
@@ -74,7 +87,7 @@ Discover my series **EXPLAINABLE DATA**, where I demystify artificial intelligen
 1. **Artificial Intelligence in Plain English.** ***An AI-Guide To Rule Them All***
     - EU: [https://amzn.eu/d/30gpBQf](https://amzn.eu/d/30gpBQf)
 
-5. **Big Data for SMEs.** ***8 Solutions for Its Implementation in Small and Medium Enterprises***
+2. **Big Data for SMEs.** ***8 Solutions for Its Implementation in Small and Medium Enterprises***
 
 
 **Covers**:
@@ -82,23 +95,26 @@ Discover my series **EXPLAINABLE DATA**, where I demystify artificial intelligen
 <details>
     <summary>🔍 Explore Covers </summary>
 
+<br>
 
-![](https://github.com/vbleal/vbleal/blob/main/Im/Mini-001_AI_eng.png)
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/002_IA_eng_mini.jpg" width="240" height="400">
+
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/004_BD_eng_mini.jpg" width="240" height="400">
 
 
-![](https://github.com/vbleal/vbleal/blob/main/Im/Mini-004_BD_Eng.png)
+
+</details>
+
 
 </details>
 
 
 
 
-</details>
 
-
+<br>
 
 ### ESPAÑOL
-
 
 
 <details>
@@ -123,31 +139,28 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <details>
     <summary>🔍 Click para explorar </summary>
 
-![](https://github.com/vbleal/vbleal/blob/main/Im/Mini-001_AI_esp.png)
+<br>
+
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/001_IA_esp_mini.jpg" width="240" height="400">
+
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/003_BD_esp_mini.jpg" width="240" height="400">
+
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/005_DS_mini.jpg" width="240" height="400">
 
 
-![](https://github.com/vbleal/vbleal/blob/main/Im/Mini-003_BD_Esp.png)
-
-
-![]()
 
 
 
 </details>
-
-
 
     
 </details>    
     
 
-
-
-
-
-
-
 </details>
+
+<br>
+
 
 ----------------
 
@@ -155,7 +168,8 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 
-
+<br>
+<br>
 
 ## 📑 PORTFOLIO (GitHub)
 
@@ -164,7 +178,10 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <details>
 <summary>🔍 Explore Topics </summary>
 
-### 🦾 ARTIFICIAL INTELLIGENCE
+
+<br>
+
+### 🦾 Artificial Intelligence & Machine Learning
 
 <details>
 <summary>🔍 Details </summary>
@@ -188,7 +205,14 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 
-### 📊 DATA SCIENCE
+
+
+
+
+<br>
+<br>
+
+### 📊 Data Science
 
 <details>
 <summary>🔍 Details </summary>
@@ -203,7 +227,14 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 
-### 🐍 PYTHON
+
+
+
+
+<br>
+<br>
+
+### 🐍 Python
 
 <details>
 <summary>🔍 Details </summary>
@@ -219,9 +250,16 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 </details>
 
+
+
+
    
 
-### 🧮 MATH
+
+<br>
+<br>
+
+### 🧮 Math
 
 <details>
 <summary>🔍 Details </summary>
@@ -236,7 +274,12 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 
-### 📋 METODOLOGÍAS ÁGILES
+
+
+<br>
+<br>
+
+### 📋 Metodologías Ágiles
 
 <details>
 <summary>🔍 Details </summary>
@@ -248,7 +291,11 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 
-### 💶 FINANCIAL RISKS
+
+<br>
+<br>
+
+### 💶 Financial Risk Management
 
 <details>
 <summary>🔍 Details </summary>
@@ -258,27 +305,34 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 </details>
 
+<br>
+<br>
 
 
-
-### TEMAS VARIOS
+### Varios
 
 <details>
 <summary>🔍 Details </summary>
 
-#### ✈️ AEROPUERTOS
+#### ✈️ Aeropuertos
 
-1. Aeropuertos: Operaciones
+1. Aeropuertos: Proyección de Operaciones
 
 
 2. Aeropuertos: Renta de Locales
+
+
+3. Aeropuertos: Proyección de Ingresos y Gastos
+
+   
 
 
 </details>
 
 
 
-
+<br>
+<br>
 
 ### 🤪 JUST FOR FUN
 
@@ -294,6 +348,9 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 </details>
+
+<br>
+
 
 ----------------
 
