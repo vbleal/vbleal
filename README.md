@@ -199,7 +199,12 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
    *    [UrbanSound8K](https://github.com/vbleal/UrbanSound8k)
   
    *    [Vegetable Image Data](https://github.com/vbleal/VegetableImage)
-  
+
+   *    [FX Predictions](https://github.com/vbleal/FX_Predictions)   
+
+   *    [Cripto Currencies Predictions](https://github.com/vbleal/Cripto_Predictions)   
+
+
    
 </details>
 
@@ -225,6 +230,29 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
   
 </details>
 
+
+
+
+
+<br>
+<br>
+
+### 💶 Financial Risk Management
+
+<details>
+<summary>🔍 Details </summary>
+
+1. [Financial Risks](https://github.com/vbleal/FR)
+
+   *    [FX Predictions](https://github.com/vbleal/FX_Predictions)
+     
+   *    [Cripto Currencies Predictions](https://github.com/vbleal/Cripto_Predictions)   
+
+
+
+
+
+</details>
 
 
 
@@ -292,18 +320,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 
-<br>
-<br>
 
-### 💶 Financial Risk Management
-
-<details>
-<summary>🔍 Details </summary>
-
-1. [Financial Risks](https://github.com/vbleal/FR)
-
-
-</details>
 
 <br>
 <br>
