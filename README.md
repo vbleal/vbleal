@@ -1,4 +1,4 @@
-![](https://github.com/vbleal/vbleal/blob/main/Im/Banner_03.png)
+![](https://github.com/vbleal/vbleal/blob/main/Im/Main_Banner.gif)
 
 # 📃 V. D. BETANCOURT
 
