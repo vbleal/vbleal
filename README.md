@@ -326,7 +326,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 
 
-### 🚀 Varios
+### 🚀 Other
 
 <details>
 <summary>🔍 Details </summary>
