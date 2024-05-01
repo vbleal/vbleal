@@ -4,7 +4,7 @@
 
 ***AKA: Vic Data & David Beta***
 
-Data Scientist. Financial and Non-Financial Risk Manager. Mathematician-Physicist
+Data Scientist. Financial and Non-Financial Risk Management Expert. Big Data Engineer. Mathematician-Physicist
 
 Banking Sector & Consultancy
 
