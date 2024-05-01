@@ -307,7 +307,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 <br>
 
-### 📋 Metodologías Ágiles
+### 📋 Agile Methodologies
 
 <details>
 <summary>🔍 Details </summary>
@@ -326,7 +326,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 
 
-### Varios
+### 🚀 Varios
 
 <details>
 <summary>🔍 Details </summary>
