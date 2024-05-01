@@ -178,6 +178,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <details>
 <summary>🔍 Explore Topics </summary>
 
+![](https://github.com/vbleal/vbleal/blob/main/Im/Banner_Portfolio.gif)
 
 <br>
 
