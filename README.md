@@ -333,13 +333,17 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 #### ✈️ Aeropuertos
 
-1. Aeropuertos: Proyección de Operaciones
+<br>
+
+[Repositorio Principal de Aeropuertos](https://github.com/vbleal/Airports)
+
+1. Aeropuertos: [Proyección de Operaciones](https://github.com/vbleal/Airports/tree/main/_Aero_Operations)
 
 
-2. Aeropuertos: Renta de Locales
+2. Aeropuertos: [Renta de Locales](https://github.com/vbleal/Airports/tree/main/_Aero_Rent)
 
 
-3. Aeropuertos: Proyección de Ingresos y Gastos
+3. Aeropuertos y Combustibles: [Proyección de Ingresos y Gastos](https://github.com/vbleal/Airports/tree/main/_Aero_NetIncome)
 
    
 
