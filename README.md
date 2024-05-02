@@ -282,7 +282,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <details>
 <summary>🔍 Details </summary>
 
-1. [Financial Risks](https://github.com/vbleal/FR)
+1. **Riesgos Financieros**: [Financial Risks](https://github.com/vbleal/FR)
 
    *    [FX Predictions](https://github.com/vbleal/FX_Predictions)
      
