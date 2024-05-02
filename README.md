@@ -211,10 +211,14 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
     *    [Playground TensorFlow](https://github.com/vbleal/Playground)
 
+<br>
+
 2. **Supervised Learning**
 
     *    [Computer Vision](https://github.com/vbleal/SL_ComputerVision)
   
+<br>
+
 3. **Redes Neuronales y Deep Learning**
 
    *    [UrbanSound8K](https://github.com/vbleal/UrbanSound8k)
@@ -223,7 +227,9 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
    *    [FX Predictions](https://github.com/vbleal/FX_Predictions)   
 
-   *    [Cripto Currencies Predictions](https://github.com/vbleal/Cripto_Predictions)   
+   *    [Cripto Currencies Predictions](https://github.com/vbleal/Cripto_Predictions)
+
+   *    [Aeropuertos: Predicción de Operaciones y Pasajeros](https://github.com/vbleal/Airports/tree/main/_Aero_Operations)
 
 
    
@@ -238,7 +244,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 <br>
 
-### 📊 Data Science
+### 📊🔮 Data Science
 
 <details>
 <summary>🔍 Details </summary>
@@ -248,6 +254,15 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
    *    [Titanic](https://github.com/vbleal/DataViz/tree/main/Titanic)
 
    *    [Loan Data](https://github.com/vbleal/DataViz/tree/main/LoanData)
+
+<br>
+
+2. **Generación de Datos Sintéticos (Synthetic Data)**
+
+   *    [Aeropuertos: Repositorio Principal](https://github.com/vbleal/Airports)
+
+
+
   
 </details>
 
