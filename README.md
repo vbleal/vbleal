@@ -207,6 +207,8 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <details>
 <summary>🔍 Details </summary>
 
+<br>
+
 1. **TensorFlow**
 
     *    [Playground TensorFlow](https://github.com/vbleal/Playground)
@@ -249,7 +251,9 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <details>
 <summary>🔍 Details </summary>
 
-1. [Data Visualization](https://github.com/vbleal/DataViz)
+<br>
+
+1. **Visualización de Datos**: [Data Visualization](https://github.com/vbleal/DataViz)
 
    *    [Titanic](https://github.com/vbleal/DataViz/tree/main/Titanic)
 
