@@ -2,11 +2,11 @@
 
 # 📃 V. D. BETANCOURT
 
-***AKA: Vic Data & David Beta***
+***AKA: Vic Data & David Beta (or D. Betancourt for some Books)***
 
-Data Scientist. Financial and Non-Financial Risk Management Expert. Big Data Engineer. Mathematician-Physicist
+**Data Scientist. Financial and Non-Financial Risk Management Expert. Big Data Engineer. Mathematician-Physicist**
 
-Banking Sector & Consultancy
+**Banking Sector & Consultancy**
 
 
 <br>
