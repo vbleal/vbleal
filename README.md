@@ -80,14 +80,21 @@ Aquí encontrarás proyectos que reflejan mi experiencia y mi pasión por transf
 <details>
 <summary>🔍 Explore in EN </summary>
 
+<br>
+
 Discover my series **EXPLAINABLE DATA**, where I demystify artificial intelligence and offer accessible guides for everyone.
 
-### 🤖 **EXPLAINABLE DATA Series**
+### 📊🦾 **EXPLAINABLE DATA Series**
 
 1. **Artificial Intelligence in Plain English.** ***An AI-Guide To Rule Them All***
     - EU: [https://amzn.eu/d/30gpBQf](https://amzn.eu/d/30gpBQf)
 
+<br>
+
 2. **Big Data for SMEs.** ***8 Solutions for Its Implementation in Small and Medium Enterprises***
+
+
+<br>
 
 
 **Covers**:
@@ -124,11 +131,13 @@ Discover my series **EXPLAINABLE DATA**, where I demystify artificial intelligen
 
 Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artificial y ofrezco guías accesibles para todos.
 
-### 🤖 **Serie EXPLAINABLE DATA**
+### 📊🦾 **Serie EXPLAINABLE DATA**
 
 1. **Inteligencia Artificial en Simples Palabras.** ***Una GuIA para Dominarlas a Todas***
     
     - EU: [https://amzn.eu/d/48Ld0m2](https://amzn.eu/d/48Ld0m2)
+
+<br>
 
 2. **Big Data para PYMEs.** ***8 Soluciones para su Implementación en Pequeñas y Medianas Empresas***
  
