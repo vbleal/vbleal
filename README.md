@@ -120,21 +120,30 @@ Discover my series **EXPLAINABLE DATA**, where I demystify artificial intelligen
 <details>
 <summary>🔍 Explora en ES </summary>
 
+<br>
+
 Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artificial y ofrezco guías accesibles para todos.
 
 ### 🤖 **Serie EXPLAINABLE DATA**
 
 1. **Inteligencia Artificial en Simples Palabras.** ***Una GuIA para Dominarlas a Todas***
+    
     - EU: [https://amzn.eu/d/48Ld0m2](https://amzn.eu/d/48Ld0m2)
 
 2. **Big Data para PYMEs.** ***8 Soluciones para su Implementación en Pequeñas y Medianas Empresas***
  
 
-3. **Data Science Nivel 1.** ***Análisis de Datos con Python*** 
+<br>
+
+### 📈 **Serie DATA SCIENCE**
+
+1. **Data Science Nivel 1.** ***Análisis de Datos con Python*** 
 
 
 
-**Covers**:
+<br>
+
+**Portadas en Español**:
 
 <details>
     <summary>🔍 Click para explorar </summary>
