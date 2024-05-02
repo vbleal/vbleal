@@ -336,17 +336,29 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 #### ✈️ Aeropuertos
 
+
+
+1. **Aeropuertos: Repositorio Principal**
+
+    *    [Repositorio Principal](https://github.com/vbleal/Airports)
+
 <br>
 
-[Repositorio Principal de Aeropuertos](https://github.com/vbleal/Airports)
+2. **Aeropuertos: Operaciones y Pasajeros**
 
-1. Aeropuertos: [Proyección de Operaciones](https://github.com/vbleal/Airports/tree/main/_Aero_Operations)
+    *    [Repositorio: Operaciones y Pasajeros](https://github.com/vbleal/Airports/tree/main/_Aero_Operations)
 
+<br>
 
-2. Aeropuertos: [Renta de Locales](https://github.com/vbleal/Airports/tree/main/_Aero_Rent)
+3. **Aeropuertos: Locales y Rentas**
 
+    *    [Repositorio: Locales y Rentas](https://github.com/vbleal/Airports/tree/main/_Aero_Rent)
 
-3. Aeropuertos y Combustibles: [Proyección de Ingresos y Gastos](https://github.com/vbleal/Airports/tree/main/_Aero_NetIncome)
+<br>
+
+4. **Aeropuertos y Combustibles: Ingresos y Gastos**
+
+    *    [Repositorio: Ingresos y Gastos](https://github.com/vbleal/Airports/tree/main/_Aero_NetIncome)
 
    
 
