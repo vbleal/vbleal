@@ -67,9 +67,9 @@ Aquí encontrarás proyectos que reflejan mi experiencia y mi pasión por transf
 ## 📚📲 My BOOKS (Libros Publicados)
 
 
-### TOTAL: 5
+### TOTAL: 6
   - EN: 2
-  - ES: 3
+  - ES: 4
 
 
 
@@ -85,6 +85,8 @@ Aquí encontrarás proyectos que reflejan mi experiencia y mi pasión por transf
 Discover my series **EXPLAINABLE DATA**, where I demystify artificial intelligence and offer accessible guides for everyone.
 
 ### 📊🦾 **EXPLAINABLE DATA Series**
+
+<br>
 
 1. **Artificial Intelligence in Plain English.** ***An AI-Guide To Rule Them All***
     - EU: [https://amzn.eu/d/30gpBQf](https://amzn.eu/d/30gpBQf)
@@ -133,6 +135,8 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 ### 📊🦾 **Serie EXPLAINABLE DATA**
 
+<br>
+
 1. **Inteligencia Artificial en Simples Palabras.** ***Una GuIA para Dominarlas a Todas***
     
     - EU: [https://amzn.eu/d/48Ld0m2](https://amzn.eu/d/48Ld0m2)
@@ -146,8 +150,13 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 ### 📈 **Serie DATA SCIENCE**
 
+<br>
+
 1. **Data Science Nivel 1.** ***Análisis de Datos con Python*** 
 
+<br>
+
+2. **Data Science Nivel 1.** ***Análisis de Datos con PySpark*** 
 
 
 <br>
@@ -164,6 +173,8 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <img src="https://github.com/vbleal/vbleal/blob/main/Im/003_BD_esp_mini.jpg" width="240" height="400">
 
 <img src="https://github.com/vbleal/vbleal/blob/main/Im/005_DS_mini.jpg" width="240" height="400">
+
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/006_DS_N1_PySpark.jpg" width="240" height="400">
 
 
 
