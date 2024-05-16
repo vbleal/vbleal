@@ -106,9 +106,9 @@ Discover my series **EXPLAINABLE DATA**, where I demystify artificial intelligen
 
 <br>
 
-<img src="https://github.com/vbleal/vbleal/blob/main/Im/002_IA_eng_mini.jpg" width="240" height="400">
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/002_IA_eng_mini.jpg" width="190" height="300">
 
-<img src="https://github.com/vbleal/vbleal/blob/main/Im/004_BD_eng_mini.jpg" width="240" height="400">
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/004_BD_eng_mini.jpg" width="190" height="300">
 
 
 
@@ -168,13 +168,13 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-<img src="https://github.com/vbleal/vbleal/blob/main/Im/001_IA_esp_mini.jpg" width="240" height="400">
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/001_IA_esp_mini.jpg" width="190" height="300">
 
-<img src="https://github.com/vbleal/vbleal/blob/main/Im/003_BD_esp_mini.jpg" width="240" height="400">
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/003_BD_esp_mini.jpg" width="190" height="300">
 
-<img src="https://github.com/vbleal/vbleal/blob/main/Im/005_DS_mini.jpg" width="240" height="400">
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/005_DS_mini.jpg" width="190" height="300">
 
-<img src="https://github.com/vbleal/vbleal/blob/main/Im/006_DS_N1_PySpark.jpg" width="240" height="400">
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/006_DS_N1_PySpark.jpg" width="190" height="300">
 
 
 
