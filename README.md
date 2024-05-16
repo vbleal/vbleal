@@ -89,7 +89,7 @@ Discover my series **EXPLAINABLE DATA**, where I demystify artificial intelligen
 <br>
 
 1. **Artificial Intelligence in Plain English.** ***An AI-Guide To Rule Them All***
-    - EU: [https://amzn.eu/d/30gpBQf](https://amzn.eu/d/30gpBQf)
+   
 
 <br>
 
