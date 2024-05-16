@@ -97,6 +97,7 @@ Discover my series **EXPLAINABLE DATA**, where I demystify artificial intelligen
 
 
 <br>
+<br>
 
 
 **Covers**:
@@ -121,6 +122,7 @@ Discover my series **EXPLAINABLE DATA**, where I demystify artificial intelligen
 
 
 
+<br>
 <br>
 
 ### ESPAÑOL
@@ -159,6 +161,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 2. **Data Science Nivel 1.** ***Análisis de Datos con PySpark*** 
 
 
+<br>
 <br>
 
 **Portadas en Español**:
