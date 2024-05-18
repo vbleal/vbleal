@@ -366,7 +366,9 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <details>
 <summary>🔍 Details </summary>
 
-1. [Agile in Data Science & Big Data Project](https://github.com/vbleal/AgileDataScience)
+<br>
+
+* [Agile in Data Science & Big Data Project](https://github.com/vbleal/AgileDataScience)
 
 
 </details>
@@ -380,14 +382,14 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 
 
-### 🚀 Other
+### 🚀 Varios
 
 <details>
 <summary>🔍 Details </summary>
 
-#### ✈️ Aeropuertos
+#### ✈️ AEROPUERTOS
 
-
+<br>
 
 1. **Aeropuertos: Repositorio Principal**
 
@@ -411,7 +413,31 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
     *    [Repositorio: Ingresos y Gastos](https://github.com/vbleal/Airports/tree/main/_Aero_NetIncome)
 
-   
+
+
+<br>
+<br>
+
+#### 💡🌱⚡ RENEWABLE ENERGY
+
+
+<br>
+
+1. [MAIN (Repositorio Principal)](https://github.com/vbleal/Energy/)
+
+    <br>
+    
+    * 📂 [Análisis Financiero y de Resultados](https://github.com/vbleal/Energy/tree/main/Financials)
+    
+    <br>
+    
+    * 📂 [Análisis del Índice Bursátil](https://github.com/vbleal/Energy/tree/main/Index)
+    
+    <br>
+      
+    * 📂 [Análisis Financiero y de Resultados](https://github.com/vbleal/Energy/tree/main/Power)
+
+  
 
 
 </details>
