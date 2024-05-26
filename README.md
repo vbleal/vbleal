@@ -1,6 +1,6 @@
 ![](https://github.com/vbleal/vbleal/blob/main/Im/Main_Banner.gif)
 
-# 📃 V. D. BETANCOURT
+# 📃 V. D. Betancourt
 
 ***AKA: Vic Data & David Beta (or D. Betancourt for some Books)***
 
