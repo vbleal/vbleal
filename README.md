@@ -154,12 +154,15 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-1. **Data Science Nivel 1.** ***Análisis de Datos con Python*** 
+1. **Análisis de Datos con Python:** ***Data Science Nivel 1.*** 
 
 <br>
 
-2. **Data Science Nivel 1.** ***Análisis de Datos con PySpark*** 
+2. **Análisis de Datos con PySpark:** ***Data Science Nivel 1.*** 
 
+<br>
+
+3. **Análisis de Datos con R y RStudio:** ***Data Science Nivel 1.*** 
 
 <br>
 <br>
@@ -175,10 +178,11 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <img src="https://github.com/vbleal/vbleal/blob/main/Im/003_BD_esp_mini.jpg" width="190" height="300">
 
-<img src="https://github.com/vbleal/vbleal/blob/main/Im/005_DS_mini.jpg" width="190" height="300">
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/005_DS_N1_Python_New.jpg" width="190" height="300">
 
-<img src="https://github.com/vbleal/vbleal/blob/main/Im/006_DS_N1_PySpark.jpg" width="190" height="300">
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/006_DS_N1_PySpark_New.jpg" width="190" height="300">
 
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/007_DS_N1_RStudio.jpg" width="190" height="300">
 
 
 
