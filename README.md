@@ -209,7 +209,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <img src="https://github.com/vbleal/vbleal/blob/main/Im/007_DS_N1_RStudio.jpg" width="190" height="300">
 
-<img src="https://github.com/vbleal/vbleal/blob/main/Im/008_SQL.jpg" width="190" height="300">
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/008_BD_SQL.jpg" width="190" height="300">
 
 
 
