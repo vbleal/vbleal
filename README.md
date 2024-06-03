@@ -67,9 +67,15 @@ Aquí encontrarás proyectos que reflejan mi experiencia y mi pasión por transf
 ## 📚📲 My BOOKS (Libros Publicados)
 
 
-### TOTAL: 6
+### TOTAL: 8
   - EN: 2
-  - ES: 4
+  - ES: 6
+
+<br>
+
+[Amazon Author Page](https://www.amazon.com/stores/D.-Betancourt/author/B0D4B1KD6T?ref_=pe_2466670_811284380&isDramIntegrated=true&shoppingPortalEnabled=true)
+
+
 
 
 
@@ -149,6 +155,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
  
 
 <br>
+<br>
 
 ### 📈 **Serie DATA SCIENCE**
 
@@ -163,6 +170,24 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 
 3. **Análisis de Datos con R y RStudio:** ***Data Science Nivel 1.*** 
+
+
+
+
+<br>
+<br>
+
+### 🖥️ **Serie BIG DATA**
+
+<br>
+
+1. **Análisis de Bases de Datos con SQL y Python:** ***Big Data Nivel 1.*** 
+
+<br>
+
+
+
+
 
 <br>
 <br>
@@ -183,6 +208,8 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <img src="https://github.com/vbleal/vbleal/blob/main/Im/006_DS_N1_PySpark_New.jpg" width="190" height="300">
 
 <img src="https://github.com/vbleal/vbleal/blob/main/Im/007_DS_N1_RStudio.jpg" width="190" height="300">
+
+<img src="https://github.com/vbleal/vbleal/blob/main/Im/008_SQL.jpg" width="190" height="300">
 
 
 
