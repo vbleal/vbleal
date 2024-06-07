@@ -147,7 +147,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 1. **Inteligencia Artificial en Simples Palabras.** ***Una GuIA para Dominarlas a Todas***
     
-    - EU: [https://amzn.eu/d/48Ld0m2](https://amzn.eu/d/48Ld0m2)
+
 
 <br>
 
