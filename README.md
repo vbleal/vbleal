@@ -319,7 +319,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-#### 1. [Text-to-Image]()
+#### 1. [Text-to-Image](https://github.com/vbleal/GenAI/tree/main/Text-to-Image)
 
 - **Description:** Repositories focused on Image AI-Generated with differente AI-tools.
 
@@ -331,7 +331,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-#### 2. [Video]()
+#### 2. [Video](https://github.com/vbleal/GenAI/tree/main/Video)
 
 - **Description:** Repositories focused on Video AI-Generated with differente AI-tools.
 
@@ -347,7 +347,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-#### 3. [Audio]()
+#### 3. [Audio](https://github.com/vbleal/GenAI/tree/main/Audio)
 
 - **Description:** Repositories focused on Audio AI-Generated with differente AI-tools.
 
