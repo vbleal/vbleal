@@ -64,10 +64,10 @@ Aquí encontrarás proyectos que reflejan mi experiencia y mi pasión por transf
 
 <br>
 
-## 📚📲 My BOOKS (Libros Publicados)
+## 📚📲 Publications
 
 
-### TOTAL: 8
+### eBooks: 8
   - EN: 2
   - ES: 6
 
@@ -81,7 +81,7 @@ Aquí encontrarás proyectos que reflejan mi experiencia y mi pasión por transf
 
 <br>
 
-### ENGLISH
+### ENGLISH eBooks
 
 <details>
 <summary>🔍 Explore in EN </summary>
@@ -131,7 +131,7 @@ Discover my series **EXPLAINABLE DATA**, where I demystify artificial intelligen
 <br>
 <br>
 
-### ESPAÑOL
+### Libros en ESPAÑOL
 
 
 <details>
@@ -254,19 +254,19 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-1. **TensorFlow**
+#### 1. **TensorFlow**
 
     *    [Playground TensorFlow](https://github.com/vbleal/Playground)
 
 <br>
 
-2. **Supervised Learning**
+#### 2. **Supervised Learning**
 
     *    [Computer Vision](https://github.com/vbleal/SL_ComputerVision)
   
 <br>
 
-3. **Redes Neuronales y Deep Learning**
+#### 3. **Redes Neuronales y Deep Learning**
 
    *    [UrbanSound8K](https://github.com/vbleal/UrbanSound8k)
   
@@ -277,6 +277,22 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
    *    [Cripto Currencies Predictions](https://github.com/vbleal/Cripto_Predictions)
 
    *    [Aeropuertos: Predicción de Operaciones y Pasajeros](https://github.com/vbleal/Airports/tree/main/_Aero_Operations)
+
+
+
+
+
+<br>
+
+#### 4. **Fraud Detection with AI-ML**
+
+    *    [Fraud Detection]()
+  
+<br>
+
+
+
+
 
 
    
@@ -291,6 +307,78 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 <br>
 
+
+
+
+<br>
+
+### 🦾🖼️🎬📝 Generative Artificial Intelligence (GenAI)
+
+<details>
+<summary>🔍 Details </summary>
+
+<br>
+
+#### 1. [Text-to-Image]()
+
+- **Description:** Repositories focused on Image AI-Generated with differente AI-tools.
+
+- **Repositories**
+
+   -  [AI-Architecture]()
+
+
+
+<br>
+
+#### 2. [Video]()
+
+- **Description:** Repositories focused on Video AI-Generated with differente AI-tools.
+
+- **Repositories**
+
+   -  [Video]()
+
+
+
+
+
+
+
+<br>
+
+#### 3. [Audio]()
+
+- **Description:** Repositories focused on Audio AI-Generated with differente AI-tools.
+
+- **Repositories**
+
+   -  [Audio]()
+
+
+
+
+
+
+<br>
+
+
+   
+</details>
+
+
+
+
+
+
+
+<br>
+<br>
+
+
+
+
+
 ### 📊🔮 Data Science
 
 <details>
@@ -298,7 +386,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-1. **Visualización de Datos**: [Data Visualization](https://github.com/vbleal/DataViz)
+#### 1. **Visualización de Datos**: [Data Visualization](https://github.com/vbleal/DataViz)
 
    *    [Titanic](https://github.com/vbleal/DataViz/tree/main/Titanic)
 
@@ -306,7 +394,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-2. **Generación de Datos Sintéticos (Synthetic Data)**
+#### 2. **Generación de Datos Sintéticos (Synthetic Data)**
 
    *    [Aeropuertos: Repositorio Principal](https://github.com/vbleal/Airports)
 
@@ -327,7 +415,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <details>
 <summary>🔍 Details </summary>
 
-1. **Riesgos Financieros**: [Financial Risks](https://github.com/vbleal/FR)
+#### 1. **Riesgos Financieros**: [Financial Risks](https://github.com/vbleal/FR)
 
    *    [FX Predictions](https://github.com/vbleal/FX_Predictions)
      
@@ -352,11 +440,11 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <details>
 <summary>🔍 Details </summary>
 
-1. **Pandas**
+#### 1. **Pandas**
 
    *    [Pandas WhitePaper](https://github.com/vbleal/Pandas)
 
-2. **Algorithms**
+#### 2. **Algorithms**
 
    *    [Optimization](https://github.com/vbleal/AlgoritmosOptimizacion)
 
@@ -377,7 +465,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <details>
 <summary>🔍 Details </summary>
 
-1. **Algorithms**
+#### 1. **Algorithms**
 
    *    [Optimization](https://github.com/vbleal/AlgoritmosOptimizacion)
 
@@ -398,6 +486,8 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <summary>🔍 Details </summary>
 
 <br>
+
+#### 1. Agile for Data Science
 
 * [Agile in Data Science & Big Data Project](https://github.com/vbleal/AgileDataScience)
 
@@ -422,25 +512,25 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-1. **Aeropuertos: Repositorio Principal**
+##### 1. **Aeropuertos: Repositorio Principal**
 
     *    [Repositorio Principal](https://github.com/vbleal/Airports)
 
 <br>
 
-2. **Aeropuertos: Operaciones y Pasajeros**
+##### 2. **Aeropuertos: Operaciones y Pasajeros**
 
     *    [Repositorio: Operaciones y Pasajeros](https://github.com/vbleal/Airports/tree/main/_Aero_Operations)
 
 <br>
 
-3. **Aeropuertos: Locales y Rentas**
+##### 3. **Aeropuertos: Locales y Rentas**
 
     *    [Repositorio: Locales y Rentas](https://github.com/vbleal/Airports/tree/main/_Aero_Rent)
 
 <br>
 
-4. **Aeropuertos y Combustibles: Ingresos y Gastos**
+##### 4. **Aeropuertos y Combustibles: Ingresos y Gastos**
 
     *    [Repositorio: Ingresos y Gastos](https://github.com/vbleal/Airports/tree/main/_Aero_NetIncome)
 
@@ -454,7 +544,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-1. [MAIN (Repositorio Principal)](https://github.com/vbleal/Energy/)
+##### 1. [MAIN (Repositorio Principal)](https://github.com/vbleal/Energy/)
 
     <br>
     
@@ -483,7 +573,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <details>
 <summary>🔍 Details </summary>
 
-1. None yet
+#### 1. None yet
 
 
 </details>
@@ -535,28 +625,18 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 <!---
-- 👋 Hey!
-- 🎯 Interested in 📊 ***Data Science*** and 🤖 ***Artificial Intelligence***, and how they are applied to the 💵 ***Financial Sector***, sucha as in ***Financial Risk Modeling***, and other Industries
+Comments (not visible)
+
+- 👋 
+- 🎯 
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me out through ...
+
+
+End Comments
 --->
-<!---
-vbleal/vbleal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
-
-
-### More Detailed Description
-
-<details>
-    <summary> Click to expand. </summary>
-    
-</details>
-
-----------------
-
---->
 
 
 
