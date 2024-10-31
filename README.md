@@ -463,7 +463,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 <br>
 
-## 🧮 Math
+## 🧮 Math & Optimization
 
 <details>
 <summary>🔍 Details </summary>
@@ -506,7 +506,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 
 
-## 🚀 Varios
+## 🚀 Other Projects
 
 <details>
 <summary>🔍 Details </summary>
@@ -571,7 +571,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 <br>
 
-## 🤪 JUST FOR FUN
+## 🤪 Just 4 Fun
 
 <details>
 <summary>🔍 Details </summary>
