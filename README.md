@@ -67,10 +67,10 @@ Aquí encontrarás proyectos que reflejan mi experiencia y mi pasión por transf
 
 <br>
 
-## 📚📲 Publications
+# 📚📲 Publications
 
 
-### eBooks: 8
+## eBooks: 8
   - EN: 2
   - ES: 6
 
@@ -84,7 +84,7 @@ Aquí encontrarás proyectos que reflejan mi experiencia y mi pasión por transf
 
 <br>
 
-### ENGLISH eBooks
+## ENGLISH eBooks
 
 <details>
 <summary>🔍 Explore in EN </summary>
@@ -134,7 +134,7 @@ Discover my series **EXPLAINABLE DATA**, where I demystify artificial intelligen
 <br>
 <br>
 
-### Libros en ESPAÑOL
+## Libros en ESPAÑOL
 
 
 <details>
@@ -237,7 +237,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 <br>
 
-## 📑 PORTFOLIO (GitHub)
+# 📑 Portfolio & Projects
 
 
 
@@ -250,26 +250,26 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-### 🦾 Artificial Intelligence, Machine Learning & Deep Learning
+## 🦾 Artificial Intelligence, Machine Learning & Deep Learning
 
 <details>
 <summary>🔍 Details </summary>
 
 <br>
 
-#### 1. **TensorFlow**
+### 1. **TensorFlow**
 
     *    [Playground TensorFlow](https://github.com/vbleal/Playground)
 
 <br>
 
-#### 2. **Supervised Learning**
+### 2. **Supervised Learning**
 
     *    [Computer Vision](https://github.com/vbleal/SL_ComputerVision)
   
 <br>
 
-#### 3. **Redes Neuronales y Deep Learning**
+### 3. **Redes Neuronales y Deep Learning**
 
    *    [UrbanSound8K](https://github.com/vbleal/UrbanSound8k)
   
@@ -287,7 +287,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-#### 4. **Fraud Detection with AI-ML**
+### 4. **Fraud Detection with AI-ML**
 
     *    [Fraud Detection]()
   
@@ -315,14 +315,14 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-### 🦾🖼️🎬📝 Generative Artificial Intelligence (GenAI)
+## 🦾🖼️🎬📝 Generative Artificial Intelligence (GenAI)
 
 <details>
 <summary>🔍 Details </summary>
 
 <br>
 
-#### 1. [Text-to-Image](https://github.com/vbleal/GenAI/tree/main/Text-to-Image)
+### 1. [Text-to-Image](https://github.com/vbleal/GenAI/tree/main/Text-to-Image)
 
 - **Description:** Repositories focused on Image AI-Generated with differente AI-tools.
 
@@ -334,7 +334,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-#### 2. [Video](https://github.com/vbleal/GenAI/tree/main/Video)
+### 2. [Video](https://github.com/vbleal/GenAI/tree/main/Video)
 
 - **Description:** Repositories focused on Video AI-Generated with differente AI-tools.
 
@@ -350,7 +350,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-#### 3. [Audio](https://github.com/vbleal/GenAI/tree/main/Audio)
+### 3. [Audio](https://github.com/vbleal/GenAI/tree/main/Audio)
 
 - **Description:** Repositories focused on Audio AI-Generated with differente AI-tools.
 
@@ -382,14 +382,14 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 
-### 📊🔮 Data Science
+## 📊🔮 Data Science
 
 <details>
 <summary>🔍 Details </summary>
 
 <br>
 
-#### 1. **Visualización de Datos**: [Data Visualization](https://github.com/vbleal/DataViz)
+### 1. **Visualización de Datos**: [Data Visualization](https://github.com/vbleal/DataViz)
 
    *    [Titanic](https://github.com/vbleal/DataViz/tree/main/Titanic)
 
@@ -397,7 +397,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-#### 2. **Generación de Datos Sintéticos (Synthetic Data)**
+### 2. **Generación de Datos Sintéticos (Synthetic Data)**
 
    *    [Aeropuertos: Repositorio Principal](https://github.com/vbleal/Airports)
 
@@ -413,12 +413,12 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 <br>
 
-### 💶 Financial Risk Management
+## 💶 Financial Risk Management
 
 <details>
 <summary>🔍 Details </summary>
 
-#### 1. **Riesgos Financieros**: [Financial Risks](https://github.com/vbleal/FR)
+### 1. **Riesgos Financieros**: [Financial Risks](https://github.com/vbleal/FR)
 
    *    [FX Predictions](https://github.com/vbleal/FX_Predictions)
      
@@ -438,16 +438,16 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 <br>
 
-### 🐍 Python
+## 🐍 Python
 
 <details>
 <summary>🔍 Details </summary>
 
-#### 1. **Pandas**
+### 1. **Pandas**
 
    *    [Pandas WhitePaper](https://github.com/vbleal/Pandas)
 
-#### 2. **Algorithms**
+### 2. **Algorithms**
 
    *    [Optimization](https://github.com/vbleal/AlgoritmosOptimizacion)
 
@@ -463,12 +463,12 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 <br>
 
-### 🧮 Math
+## 🧮 Math
 
 <details>
 <summary>🔍 Details </summary>
 
-#### 1. **Algorithms**
+### 1. **Algorithms**
 
    *    [Optimization](https://github.com/vbleal/AlgoritmosOptimizacion)
 
@@ -483,14 +483,14 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 <br>
 
-### 📋 Agile Methodologies
+## 📋 Agile Methodologies
 
 <details>
 <summary>🔍 Details </summary>
 
 <br>
 
-#### 1. Agile for Data Science
+### 1. Agile for Data Science
 
 * [Agile in Data Science & Big Data Project](https://github.com/vbleal/AgileDataScience)
 
@@ -506,34 +506,34 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 
 
-### 🚀 Varios
+## 🚀 Varios
 
 <details>
 <summary>🔍 Details </summary>
 
-#### ✈️ AEROPUERTOS
+### ✈️ Aeropuertos (AIRPORTS)
 
 <br>
 
-##### 1. **Aeropuertos: Repositorio Principal**
+#### 1. **Aeropuertos: Repositorio Principal**
 
     *    [Repositorio Principal](https://github.com/vbleal/Airports)
 
 <br>
 
-##### 2. **Aeropuertos: Operaciones y Pasajeros**
+#### 2. **Aeropuertos: Operaciones y Pasajeros**
 
     *    [Repositorio: Operaciones y Pasajeros](https://github.com/vbleal/Airports/tree/main/_Aero_Operations)
 
 <br>
 
-##### 3. **Aeropuertos: Locales y Rentas**
+#### 3. **Aeropuertos: Locales y Rentas**
 
     *    [Repositorio: Locales y Rentas](https://github.com/vbleal/Airports/tree/main/_Aero_Rent)
 
 <br>
 
-##### 4. **Aeropuertos y Combustibles: Ingresos y Gastos**
+#### 4. **Aeropuertos y Combustibles: Ingresos y Gastos**
 
     *    [Repositorio: Ingresos y Gastos](https://github.com/vbleal/Airports/tree/main/_Aero_NetIncome)
 
@@ -542,12 +542,12 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 <br>
 
-#### 💡🌱⚡ RENEWABLE ENERGY
+### 💡🌱⚡ Energías Renovables (RENEWABLE ENERGY)
 
 
 <br>
 
-##### 1. [MAIN (Repositorio Principal)](https://github.com/vbleal/Energy/)
+#### 1. [MAIN (Repositorio Principal)](https://github.com/vbleal/Energy/)
 
     <br>
     
@@ -571,12 +571,12 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 <br>
 
-### 🤪 JUST FOR FUN
+## 🤪 JUST FOR FUN
 
 <details>
 <summary>🔍 Details </summary>
 
-#### 1. None yet
+### 1. None yet
 
 
 </details>
