@@ -259,13 +259,14 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 ### 1. **TensorFlow**
 
-    *    [Playground TensorFlow](https://github.com/vbleal/Playground)
+   *    [TensorFlow: Playground](https://github.com/vbleal/Playground)
+
 
 <br>
 
 ### 2. **Supervised Learning**
 
-    *    [Computer Vision](https://github.com/vbleal/SL_ComputerVision)
+   *    [Supervised Learning: Computer Vision](https://github.com/vbleal/SL_ComputerVision)
   
 <br>
 
@@ -287,10 +288,10 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-### 4. **Fraud Detection with AI-ML**
+### 4. **Fraud Detection using AI/ML**
 
-    *    [Fraud Detection]()
-  
+     *    [Fraud Detection]()
+
 <br>
 
 
@@ -516,26 +517,28 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 
 #### 1. **Aeropuertos: Repositorio Principal**
-
-    *    [Repositorio Principal](https://github.com/vbleal/Airports)
+    
+   *    [Aeropuertos: Repositorio Principal](https://github.com/vbleal/Airports)
 
 <br>
 
 #### 2. **Aeropuertos: Operaciones y Pasajeros**
 
-    *    [Repositorio: Operaciones y Pasajeros](https://github.com/vbleal/Airports/tree/main/_Aero_Operations)
+   *    [Aeropuertos: Predicción de Operaciones y Pasajeros](https://github.com/vbleal/Airports/tree/main/_Aero_Operations)
+
 
 <br>
 
 #### 3. **Aeropuertos: Locales y Rentas**
 
-    *    [Repositorio: Locales y Rentas](https://github.com/vbleal/Airports/tree/main/_Aero_Rent)
+   *    [Aeropuertos: Locales y Rentas](https://github.com/vbleal/Airports/tree/main/_Aero_Rent)
+
 
 <br>
 
 #### 4. **Aeropuertos y Combustibles: Ingresos y Gastos**
 
-    *    [Repositorio: Ingresos y Gastos](https://github.com/vbleal/Airports/tree/main/_Aero_NetIncome)
+   *    [Aeropuertos: Ingresos y Gastos](https://github.com/vbleal/Airports/tree/main/_Aero_NetIncome)
 
 
 
