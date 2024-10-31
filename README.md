@@ -329,7 +329,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 - **Repositories**
 
-   -  [AI-Architecture]()
+   -  [AI-Architecture](https://github.com/vbleal/AI-Architecture)
 
 
 
@@ -516,27 +516,25 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 <br>
 
-#### 1. **Aeropuertos: Repositorio Principal**
-    
-   *    [Aeropuertos: Repositorio Principal](https://github.com/vbleal/Airports)
+#### [Aeropuertos: Repositorio Principal](https://github.com/vbleal/Airports)
 
 <br>
 
-#### 2. **Aeropuertos: Operaciones y Pasajeros**
+#### 1. **Aeropuertos: Operaciones y Pasajeros**
 
    *    [Aeropuertos: Predicción de Operaciones y Pasajeros](https://github.com/vbleal/Airports/tree/main/_Aero_Operations)
 
 
 <br>
 
-#### 3. **Aeropuertos: Locales y Rentas**
+#### 2. **Aeropuertos: Locales y Rentas**
 
    *    [Aeropuertos: Locales y Rentas](https://github.com/vbleal/Airports/tree/main/_Aero_Rent)
 
 
 <br>
 
-#### 4. **Aeropuertos y Combustibles: Ingresos y Gastos**
+#### 3. **Aeropuertos y Combustibles: Ingresos y Gastos**
 
    *    [Aeropuertos: Ingresos y Gastos](https://github.com/vbleal/Airports/tree/main/_Aero_NetIncome)
 
@@ -545,24 +543,31 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 <br>
 <br>
 
-### 💡🌱⚡ Energías Renovables (RENEWABLE ENERGY)
+### 💡🌱⚡ Energías Renovables (Renewable Energy)
 
 
 <br>
 
-#### 1. [MAIN (Repositorio Principal)](https://github.com/vbleal/Energy/)
+#### [Renewable Energy: MAIN (Repositorio Principal)](https://github.com/vbleal/Energy/)
 
-    <br>
-    
-    * 📂 [Análisis Financiero y de Resultados](https://github.com/vbleal/Energy/tree/main/Financials)
-    
-    <br>
-    
-    * 📂 [Análisis del Índice Bursátil](https://github.com/vbleal/Energy/tree/main/Index)
-    
-    <br>
-      
-    * 📂 [Análisis Financiero y de Resultados](https://github.com/vbleal/Energy/tree/main/Power)
+<br>
+
+#### 1. **Renewable Energy: Análisis Financiero y de Resultados**
+
+
+   *    [Renewable Energy: Análisis Financiero y de Resultados](https://github.com/vbleal/Energy/tree/main/Financials)
+
+<br>
+
+#### 2. **Renewable Energy: Análisis del Índice Bursátil**
+
+   *    [Renewable Energy: Análisis del Índice Bursátil](https://github.com/vbleal/Energy/tree/main/Index)
+
+<br>
+
+#### 3. **Renewable Energy: Análisis Financiero y de Resultados**
+
+   *    [Renewable Energy: Análisis Financiero y de Resultados](https://github.com/vbleal/Energy/tree/main/Power)
 
   
 
