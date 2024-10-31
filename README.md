@@ -4,9 +4,9 @@
 
 ***AKA: Vic Data & David Beta (or D. Betancourt for some Books)***
 
-**Data Scientist. Financial and Non-Financial Risk Management Expert. Big Data Engineer. Mathematician-Physicist**
+**AI, Data Science, GenAI, Machine Learning, Financial and Non-Financial Risk Management**
 
-**Banking Sector & Consultancy**
+**Banking Industry & Consultancy Services**
 
 
 <br>
@@ -25,11 +25,11 @@ Here you will find projects that reflect my experience and passion for transform
 
 ### What defines me:
 
-- 📊 **Data Scientist and Expert in Financial Risks**: Delving into the numbers to find stories and solutions.
-- 🌎 **Global Experience**: Leadership of teams in the financial sector at an international level.
-- 🤖 **Passionate about AI**: At the forefront of research on advanced AI technologies.
-- 📚 **Continuous Learning**: With a solid academic background ranging from Physics to Artificial Intelligence.
-- 🌱 **Community Contributor**: Committed to sharing knowledge and promoting growth in the technological and financial fields.
+- 🤖 **AI Enthusiast & Researcher in GenAI and LLMs**: Exploring the potential of Artificial Intelligence and Large Language Models to drive innovation.
+- 📊 **Data Scientist & Machine Learning Practitioner**: Turning complex data into actionable insights, with a strong foundation in Data Science and ML.
+- 🌎 **Global Perspective**: Experienced in leading diverse, cross-functional teams on tech-driven projects worldwide.
+- 📚 **Lifelong Learner**: A strong academic background spanning Data Science, ML, and GenAI.
+- 🌱 **Active Community Contributor**: Passionate about knowledge sharing and fostering growth in the AI and tech communities.
 
 
 </details>
@@ -44,12 +44,15 @@ Aquí encontrarás proyectos que reflejan mi experiencia y mi pasión por transf
 <details>
 <summary>🌐 Click para más detalles </summary>
 
+
+
 ### Lo que me define:
-- 📊 **Científico de Datos y Experto en Riesgos Financieros**: Profundizando en los números para encontrar historias y soluciones.
-- 🌎 **Experiencia Global**: Liderazgo de equipos en el sector financiero a nivel internacional.
-- 🤖 **Apasionado por la IA**: En la vanguardia de la investigación de tecnologías avanzadas de IA.
-- 📚 **Aprendizaje Continuo**: Con una sólida formación académica que abarca desde Física hasta Inteligencia Artificial.
-- 🌱 **Contribuyente a la Comunidad**: Comprometido con compartir conocimientos y promover el crecimiento en los ámbitos tecnológico y financiero.
+
+- 🤖 **Entusiasta e Investigador en GenAI y LLMs**: Explorando el potencial de la Inteligencia Artificial y los Modelos de Lenguaje de Gran Escala para impulsar la innovación.
+- 📊 **Científico de Datos y Practicante de Machine Learning**: Transformando datos complejos en insights accionables, con una sólida base en Ciencia de Datos y ML.
+- 🌎 **Perspectiva Global**: Experiencia liderando equipos diversos y multifuncionales en proyectos tecnológicos a nivel mundial.
+- 📚 **Aprendiz de por Vida**: Fuerte formación académica que abarca Ciencia de Datos, ML y GenAI.
+- 🌱 **Contribuidor Activo en la Comunidad**: Apasionado por compartir conocimientos y fomentar el crecimiento en las comunidades de IA y tecnología.
 
 
 </details>
