@@ -2,7 +2,7 @@
 
 # 📃 V. D. Betancourt
 
-***AKA: Vic Data & David Beta (or D. Betancourt for some Books)***
+***AKA: Vic Data & David Beta (or D. Betancourt for some eBooks)***
 
 **AI, Data Science, GenAI, Machine Learning, Financial and Non-Financial Risk Management**
 
@@ -70,13 +70,14 @@ Aquí encontrarás proyectos que reflejan mi experiencia y mi pasión por transf
 # 📚📲 Publications
 
 
+
 ## eBooks: 8
   - EN: 2
   - ES: 6
 
 <br>
 
-[Amazon Author Page](https://www.amazon.com/stores/D.-Betancourt/author/B0D4B1KD6T?ref_=pe_2466670_811284380&isDramIntegrated=true&shoppingPortalEnabled=true)
+[📦 Amazon](https://www.amazon.com/stores/D.-Betancourt/author/B0D4B1KD6T?ref_=pe_2466670_811284380&isDramIntegrated=true&shoppingPortalEnabled=true)
 
 
 
@@ -598,6 +599,53 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 ----------------
+
+
+
+
+
+
+<br>
+<br>
+
+# 🎹🎵 AI-Generated Music
+
+
+<details>
+<summary>🔍 Explore My Music </summary>
+
+<br>
+
+## Nova Solfeo ↻◁🎧▷↺
+
+
+<p>
+  <a href="https://open.spotify.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/spotify.png" alt="Spotify"/>
+  </a>
+  <br>
+  <a href="https://music.youtube.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-music.png" alt="YouTube Music"/>
+  </a>
+  <br>
+  <a href="https://music.amazon.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/amazon-music.png" alt="Amazon Music"/>
+  </a>
+  <br>
+  <a href="https://music.apple.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/apple-music.png" alt="Apple Music"/>
+  </a>
+  <br>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+</p>
+
+
+
+
+
+<br>
 
 
 
