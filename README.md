@@ -612,7 +612,7 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 <details>
-<summary>🔍 Explore My Music </summary>
+<summary>🔍 Listen to My Music </summary>
 
 <br>
 
@@ -643,9 +643,12 @@ Descubre mi serie **EXPLAINABLE DATA**, donde desmitifico la inteligencia artifi
 
 
 
-
+</details>
 
 <br>
+
+
+----------------
 
 
 
